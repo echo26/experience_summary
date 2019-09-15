@@ -9,8 +9,8 @@ Portfolio.pdf 에 설명 첨부.
 
 ## 2. WebSite
 
-학교 졸업으로 인한 Unix서버 접근권 제한. 사이트 페쇄.
-Portfolio.pdf 에 설명 첨부.
+학교 졸업으로 인한 Unix서버 접근권 제한. 사이트 페쇄. Portfolio.pdf 에 설명 첨부.
+* [Link] (https://github.com/echo26/experience_summary/blob/master/Portfolio.pdf)
 
 ## 3. Computer Graphics
 	
