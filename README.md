@@ -14,7 +14,7 @@
 ## 3. Computer Graphics
 	
 	3-1. OpenGL 함수 구현
-	[Link](https://github.com/echo26/GraphicUsingCpp)
+	* [Link](https://github.com/echo26/GraphicUsingCpp)
 
 	3-2. Bezier Surface (곡면 표현)
 	[Link](https://github.com/echo26/Bezier-Surface)
