@@ -18,7 +18,7 @@ Portfolio.pdf 에 설명 첨부.
 * [Link](https://github.com/echo26/GraphicUsingCpp)
 
 3-2. Bezier Surface (곡면 표현)
-[Link](https://github.com/echo26/Bezier-Surface)
+* [Link](https://github.com/echo26/Bezier-Surface)
 
 ## 4. Data Analysis
 
