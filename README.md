@@ -4,6 +4,7 @@
 
 앱 출시하지 않아 링크 없음.
 Portfolio.pdf 에 설명 첨부.
+* [Link] (https://github.com/echo26/experience_summary/blob/master/Portfolio.pdf)
 
 
 ## 2. WebSite
@@ -21,8 +22,8 @@ Portfolio.pdf 에 설명 첨부.
 
 ## 4. Data Analysis
 
-	4-1. Text Matching
-	[Link](https://github.com/echo26/Summary-Classification)
+4-1. Text Matching
+* [Link](https://github.com/echo26/Summary-Classification)
 
-	4-2. Spam Classifier
-	[Link](https://github.com/echo26/Spam-Classifier)
+4-2. Spam Classifier
+* [Link](https://github.com/echo26/Spam-Classifier)
